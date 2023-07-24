@@ -9,7 +9,7 @@ I'm a passionate front-end developer specializing in React. I'm also a skilled b
 * 🌍  I'm based in Guatemala
 * 🖥️  See my portfolio at [My Website](http://andrealejandrog.pythonanywhere.com/)
 * ✉️  You can contact me at [andrealejandrog@gmail.com](mailto:andrealejandrog@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on Web Development and back-end projects. Data science and Machine Learning.
 
 ### Skills
