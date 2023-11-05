@@ -1,7 +1,7 @@
 Hi 👋 My name is Andres Gonzalez
 ================================
 
-Developer ReactJs | Django | Python | Node.js | Data Science.
+Developer ReactJs | Django | Python | Node.js | Data Engineer.
 -------------------------------------------------------------
 
 I'm a passionate front-end developer specializing in React. I'm also a skilled back-end developer with expertise in Python (Django, FastAPI, and Flask). With 4 years of professional experience in web development, data visualization, and analysis, I have also gained experience in leading projects and operations management. I also have experience with data bases and visualizations using Power BI and Tableau.
